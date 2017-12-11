@@ -1,0 +1,13 @@
+﻿  ofApp.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+     Creando biblioteca bin\PostazioneEditor.lib y objeto bin\PostazioneEditor.exp
+  LINK : se especificó /LTCG pero no se requiere generación de código; quite /LTCG de la línea de comandos de vínculo para mejorar el rendimiento del vinculador
+  guiExample.vcxproj -> C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\apps\PostazioneEditor (Win)\PostazioneEditor\bin\PostazioneEditor.exe
+  
+  	                   9	C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\export\vs\x64\

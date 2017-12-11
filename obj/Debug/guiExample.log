@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: El directorio intermedio (obj\Debug\) contiene archivos compartidos de otro proyecto (guiExample.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  ofApp.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  guiExample.vcxproj -> C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\apps\PostazioneEditor\PostazioneEditor\bin\PostazioneEditor_debug.exe
+  
+  	                   9	C:\Users\Felipe\Desktop\of_v0.9.8_vs_release\export\vs\x64\
