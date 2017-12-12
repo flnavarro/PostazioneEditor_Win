@@ -21,6 +21,10 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
     
+        bool isWindows;
+    
+        int saveResRatio;
+    
         bool editMode;
         bool saveButtonCapado;
 
@@ -37,7 +41,7 @@ class ofApp : public ofBaseApp{
         // Fonts
         ofxTrueTypeFontUC question;
         ofxTrueTypeFontUC answer;
-		ofxTrueTypeFontUC questionGUI;
+        ofxTrueTypeFontUC questionGUI;
 		ofxTrueTypeFontUC answerGUI;
         ofxTrueTypeFontUC gui;
     
